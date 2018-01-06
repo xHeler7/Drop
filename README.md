@@ -1,5 +1,4 @@
-# Drop
-by Nex
+# Drop by Nex
 
 ## > Download <
 
@@ -12,4 +11,4 @@ by Nex
 ### Zastosowanie:
 Plugin swietnie nadaje sie na serwery z gildiami (frakcjami) bądz na serwery survival. Jest prosty w edycji i obsłudze co wyróźnia go spośród konkurencji :)
 
-Plugin Drop by Nex.
+ⓒCopyright by Nex.
